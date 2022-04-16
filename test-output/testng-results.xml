@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2324" started-at="2022-04-16T20:26:30Z" finished-at="2022-04-16T20:26:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2324" started-at="2022-04-16T20:26:30Z" finished-at="2022-04-16T20:26:33Z">
+      <class name="testCases.TC001_VerifyLogin">
+        <test-method status="PASS" signature="init()[pri:0, instance:testCases.TC001_VerifyLogin@51931956]" name="init" is-config="true" duration-ms="5093" started-at="2022-04-16T16:26:25Z" finished-at="2022-04-16T16:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testCases.TC001_VerifyLogin@51931956]" name="verifyLogin" duration-ms="2268" started-at="2022-04-16T16:26:30Z" finished-at="2022-04-16T16:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC001_VerifyLogin@51931956]" name="tearDown" is-config="true" duration-ms="1474" started-at="2022-04-16T16:26:33Z" finished-at="2022-04-16T16:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
